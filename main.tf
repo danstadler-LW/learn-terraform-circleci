@@ -11,7 +11,6 @@ terraform {
     key    = "terraform/webapp/terraform.tfstate"
     region = "us-west-2"
   }
-
 }
 
 provider "aws" {
